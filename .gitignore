@@ -1,0 +1,9 @@
+# Never commit secrets or runtime state
+.env
+posted.json
+posted_ids.txt
+__pycache__/
+*.pyc
+*.pyo
+.pythonlibs/
+.cache/
